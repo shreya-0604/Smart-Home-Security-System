@@ -86,7 +86,7 @@ This project is designed to improve home security by continuously monitoring mot
 
 **Wokwi Project**
 
-<PASTE_YOUR_WOKWI_PROJECT_LINK_HERE>
+https://wokwi.com/projects/465993662890070017
 
 ## 🚀 Applications
 
