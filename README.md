@@ -76,11 +76,11 @@ This project is designed to improve home security by continuously monitoring mot
 
 ### Blynk Dashboard
 
-![Blynk Dashboard](assets/dashboard.png)
+![Blynk Dashboard](assets/dashboard%20.png)
 
 ### Serial Monitor
 
-![Serial Monitor](assets/serial_monitor.png)
+![Serial Monitor](assets/serial%20monitor%20.png)
 
 ## 🔗 Live Simulation
 
