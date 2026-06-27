@@ -68,19 +68,19 @@ This project is designed to improve home security by continuously monitoring mot
 
 ### Circuit Diagram
 
-(Add your circuit screenshot here)
+![Circuit Diagram](assets/circuit.png)
 
 ### Wokwi Simulation
 
-(Add your Wokwi simulation screenshot here)
+![Wokwi Simulation](assets/simulation.png)
 
 ### Blynk Dashboard
 
-(Add your Blynk dashboard screenshot here)
+![Blynk Dashboard](assets/dashboard.png)
 
 ### Serial Monitor
 
-(Add your Serial Monitor screenshot here)
+![Serial Monitor](assets/serial_monitor.png)
 
 ## 🔗 Live Simulation
 
